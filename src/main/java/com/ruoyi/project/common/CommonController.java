@@ -86,10 +86,6 @@ public class CommonController
             return AjaxResult.error(e.getMessage());
         }
     }
-    /*问什么不出效果*/
-    public static void main(String[] args) {
-        System.out.println("jqms");
-    }
     /**
      * 本地资源通用下载
      */
