@@ -86,7 +86,7 @@ public class CommonController
             return AjaxResult.error(e.getMessage());
         }
     }
-
+//asdsafafafssssssssssssssssssssssssssssss
     /**
      * 本地资源通用下载
      */
